@@ -1,6 +1,6 @@
 {
   "name": "fryossi-rollbar-react-native",
-  "version": "0.2.0-alpha3",
+  "version": "0.2.0",
   "description": "Library for reporting errors to Rollbar from React Native apps",
   "main": "index.js",
   "repository": "https://github.com/rollbar/rollbar-react-native.git",
