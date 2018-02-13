@@ -1,5 +1,5 @@
 {
-  "name": "rollbar-react-native",
+  "name": "fryossi-rollbar-react-native",
   "version": "0.2.0-alpha3",
   "description": "Library for reporting errors to Rollbar from React Native apps",
   "main": "index.js",

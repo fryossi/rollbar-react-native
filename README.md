@@ -1,3 +1,5 @@
+# Fork of [rollbar-react-native](https://github.com/rollbar/rollbar-react-native) [npm](https://www.npmjs.com/package/rollbar-react-native)
+
 # ALPHA RELEASE
 
 This library is currently under heavy development, however it should be usable
